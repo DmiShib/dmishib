@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=540&lines=Hey,+I'm+Dmitry!;_%20Welcome+to+my+GitHub!%20__" alt="Typing Animation" />
@@ -10,16 +8,19 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>
+    <!-- <p>
         <img src="learning.gif" alt="You are never done learning" width="288" />
-    </p>
+    </p> -->
     <p>
         I am a Unity Game Developer with 12+ years of experience in:
         <ul>
             <li>Creating engaging gameplay mechanics and immersive game experiences.</li>
             <li>Optimizing game performance across multiple platforms.</li>
             <li>Implementing complex systems using C# and Unity's architecture.</li>
+            <li>Writing shader code to create stunning visual effects.</li>
         </ul>
+        <p>Currently running my own game development studio, Grindset Studios!</p>
+        <p>I'm also passionate about leveraging artificial intelligence to enhance productivity in game development workflows.</p>
     </p>
 </div>
 
@@ -28,12 +29,44 @@
 <div align="center">
     <h2>🌐 Connect with Me</h2>
     <p>Let's collaborate on game development projects!</p>
-    <a href="https://www.linkedin.com/in/dmitry-mishibaev">
+    <a href="https://www.linkedin.com/in/dishib">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/dmishib">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+</div>
+
+---
+
+<div align="center">
+    <h2>🎮 Grindset Studios</h2>
+    <p>Check out my game development studio!</p>
+    <div style="margin: 20px;">
+        <img src="/studio_logo.png" alt="Grindset Studios Logo" width="200" />
+    </div>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+        <div style="margin: 10px;">
+            <a href="https://play.google.com/store/apps/dev?id=4904492079701792773">
+                <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+            </a>
+        </div>
+        <div style="margin: 10px;">
+            <a href="https://grindset.space/">
+                <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+            </a>
+        </div>
+        <div style="margin: 10px;">
+            <a href="https://github.com/orgs/GrindsetStudios/">
+                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+            </a>
+        </div>
+        <div style="margin: 10px;">
+            <a href="https://t.me/GrindsetStudios">
+                <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+            </a>
+        </div>
+    </div>
 </div>
 
 ---
@@ -70,6 +103,8 @@
         <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
         <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
         <img src="https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere" />
+        <img src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender 3D" />
+        <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" alt="Audacity" />
     </p>
     <h4>Development Tools</h4>
     <p>
@@ -82,6 +117,8 @@
       <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
       <img src="https://img.shields.io/badge/Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud AI"/>
       <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge" alt="Perplexity"/>
+      <img src="https://img.shields.io/badge/LM_Studio-FF6B6B?style=for-the-badge" alt="LM Studio"/>
+      <img src="https://img.shields.io/badge/ElevenLabs-2D2D2D?style=for-the-badge" alt="ElevenLabs"/>
     </p>
     <h4>IDEs</h4>
     <p>
@@ -89,6 +126,7 @@
       <img src="https://img.shields.io/badge/Cline-000000?style=for-the-badge" alt="Cline"/>
       <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
       <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider"/>
+      <img src="https://img.shields.io/badge/Trae_AI-6C5CE7?style=for-the-badge" alt="Trae AI"/>
     </p>
 </div>
 
