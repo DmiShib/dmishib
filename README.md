@@ -135,9 +135,10 @@
 <div align="center">
     <h2>💻 GitHub Stats</h2>
     <p>Check out my contributions and project activity!</p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dmishib&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmishib&theme=merko" alt="GitHub Streak" />
     <img src="https://github-profile-trophy.vercel.app/?username=dmishib&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dmishib&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmishib&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dmishib&layout=compact&theme=radical&hide=other" alt="GitHub Trophies" />
 </div>
 
 ---
