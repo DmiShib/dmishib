@@ -8,6 +8,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
+     <img src="https://wakatime.com/badge/user/fbfb6002-bef9-4974-9b35-721d10b37fcd.svg"/>
     <!-- <p>
         <img src="learning.gif" alt="You are never done learning" width="288" />
     </p> -->
